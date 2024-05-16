@@ -1,12 +1,12 @@
-<h1 align="center">Hello there 👋</h1>
+<h1 align="left">Hello there 👋</h1>
 
 ###
 
-<h2 align="center">I'm Shrikeshav</h2>
+<h2 align="left">I'm Shrikeshav</h2>
 
 ###
 
-<h4 align="left">✨ Probably somewhere building or breaking stuff with code<br>🤝💻 Love to connect on MERN stack projects</h4>
+<p align="left">✨ Probably somewhere building or breaking stuff with code<br>🤝💻 Love to connect on MERN stack projects</p>
 
 ###
 
