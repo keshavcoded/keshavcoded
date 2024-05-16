@@ -10,11 +10,11 @@
 
 ###
 
-<h2 align="center">Languages</h2>
+<h2 align="left">Languages</h2>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
@@ -28,11 +28,11 @@
 
 ###
 
-<h2 align="center">Frameworks and Runtime</h2>
+<h2 align="left">Frameworks and Runtime</h2>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
@@ -44,11 +44,11 @@
 
 ###
 
-<h2 align="center">Databases</h2>
+<h2 align="left">Databases</h2>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/prisma/2D3748" height="40" alt="prisma logo"  />
@@ -60,11 +60,11 @@
 
 ###
 
-<h2 align="center">Tools</h2>
+<h2 align="left">Tools</h2>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
@@ -76,7 +76,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=skmax1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
