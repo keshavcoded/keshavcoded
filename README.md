@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">🚀 Probably somewhere building or breaking stuff with code<br></p>
+<p align="left">✨ Probably somewhere building or breaking stuff with code<br>🤝💻 Love to connect on MERN stack projects</p>
 
 ###
 
@@ -40,6 +40,8 @@
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
 </div>
 
 ###
