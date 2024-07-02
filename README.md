@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">✨ Probably somewhere building or breaking stuff with code<br>🤝💻 Love to connect on MERN stack projects</p>
+<p align="left">✨ Probably somewhere building or breaking stuff with code<br></p>
 
 ###
 
