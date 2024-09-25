@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">✨ Probably somewhere building or breaking stuff with code<br></p>
+<p align="left">✨ I code for fun<br></p>
 
 ###
 
