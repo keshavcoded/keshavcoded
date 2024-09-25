@@ -1,4 +1,4 @@
-<h1 align="left">Hello there 👋</h1>
+<h1 align="left">Hey 👋</h1>
 
 ###
 
@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">✨ I code for fun<br></p>
+<p align="left">🚀 I code for fun<br></p>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
