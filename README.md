@@ -3,7 +3,4 @@
 </div>
 
 <img src="https://raw.githubusercontent.com/keshavcoded/keshavcoded/output/pacman-contribution-graph.svg" alt="Pacman animation" />
-
-###
-
 ###
